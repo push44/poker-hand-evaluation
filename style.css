@@ -1,0 +1,96 @@
+body {
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    margin:0;
+    padding:0;
+ }
+
+.jumbotron
+    {position:relative;
+        background:rgb(112, 31, 31);
+        padding:auto;
+        position:absolute;
+        top:0;
+        width:100vw;
+        height:20vh;
+        }
+
+h1
+        {
+            font-family:Algerian;
+            text-align: center;
+            color: white;
+            font-size: 250%;
+        }
+
+p
+        {
+            text-align: center;
+            color: white;
+        }
+
+.w3-container {
+    display: block;
+        /* width: 50%; */
+    padding-top: 30vh;
+}
+
+/* .w3-container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) } */
+
+
+/* #card {
+    transition: transform .2s; Animation
+    width 200px;
+    height:200px;
+    margin:0 auto;
+} */
+
+#card0:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+}
+
+#card1:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+}
+
+#card2:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+}
+
+#card3:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+}
+
+#card4:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+}
+
+
+/* .w3-container {
+    padding: 50px;
+    transition: transform .2s; /* Animation */
+    /* width: 200px;
+    height: 200px;
+    margin: 0 auto;
+} */
+
+/* .w3-container:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport)
+ } */
+
+
+/* 
+<div class="zoom"></div> */
+
+script {
+    
+    color: #FFFFFF;
+
+}
